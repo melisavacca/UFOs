@@ -26,7 +26,7 @@ Users just need to erase filters to reset and perform another search.
 
 ## Summary
 
-- One DrawBack of This Webpage
+- One Drawback of This Webpage
   I think the major drawback of the webpage as it currently stands is that we cannot filter by duration of sighting or keywords in the comments.  Adding these filters would be
   simple, and I think some users would be interested in this. 
   
